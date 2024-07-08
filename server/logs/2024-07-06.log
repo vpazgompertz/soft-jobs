@@ -1,0 +1,52 @@
+
+Started GET /usuarios for :: ::1 at Fri Jul 05 2024 21:47:28 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 8 ms Request ID: [cbfa538e-121a-4229-954f-3fde4b0e3f82]
+
+Started GET / for :: ::1 at Fri Jul 05 2024 21:47:34 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [7df58fac-79e4-4a34-9ef0-8732d67beea2]
+
+Started GET /favicon.ico for :: ::1 at Fri Jul 05 2024 21:47:34 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 5 ms Request ID: [ec980157-9dd7-4957-9e8d-a7adfe679ae9]
+
+Started GET /usuarios for :: ::1 at Fri Jul 05 2024 21:47:39 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 3 ms Request ID: [1f4d5385-09a7-4d17-ac83-b4325d8e3b76]
+
+Started GET /login for :: ::1 at Fri Jul 05 2024 21:47:47 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [632fbbc8-e949-4fa7-8f5f-973777713a6a]
+
+Started GET /usuarios for :: ::1 at Fri Jul 05 2024 21:47:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 2 ms Request ID: [481d45fd-1e41-4ff4-ac3d-049aa2f0970c]
+
+Started GET /usuarios for :: ::1 at Sat Jul 06 2024 11:05:06 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 9 ms Request ID: [567cf563-c0e0-4f35-8e20-337b63e2b5b3]
+
+Started GET /usuarios for :: ::1 at Sat Jul 06 2024 11:05:47 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 8 ms Request ID: [b925fffb-ae7d-4687-8e01-567a6ac24dce]
+
+Started POST /usuarios for :: ::1 at Sat Jul 06 2024 11:06:39 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"valentina@desafiolatam.com","password":"hola","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 201 message:  Time response: 230 ms Request ID: [fb554f39-1fce-45ce-abb5-9f4e4cdc77fd]
+
+Started GET /usuarios/ for :: ::ffff:127.0.0.1 at Sat Jul 06 2024 11:07:08 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 2 ms Request ID: [eef4bf6e-3f13-4399-8569-fcf1d4d77155]
+
+Started POST /usuarios/ for :: ::ffff:127.0.0.1 at Sat Jul 06 2024 11:07:15 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 2 ms Request ID: [bbebe57a-b7d0-4d32-bcf6-63b44ea17597]
+
+Started POST /login for :: ::1 at Sat Jul 06 2024 11:08:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"valentina@desafiolatam.com","password":"hola"}
+Completed: 400 message:  Time response: 33 ms Request ID: [c6c3a849-0ea1-4ca6-9377-e365f40122c6]
+
+Started POST /login for :: ::1 at Sat Jul 06 2024 11:41:41 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"valentina@desafiolatam.com","password":"hola"}
+Completed: 400 message:  Time response: 123 ms Request ID: [26d4178d-af59-4ce4-b896-663b69bdcbe2]
